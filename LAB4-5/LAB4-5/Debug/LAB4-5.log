@@ -1,0 +1,40 @@
+﻿  Film.cpp
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,56): error C2238: unexpected token(s) preceding ';'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(52,8): error C2872: 'ostream': ambiguous symbol
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,9): message : could be 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iosfwd(217,7): message : or       'std::ostream'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(52,8): error C2143: syntax error: missing ';' before '&'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(52,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(52,1): error C2086: 'int ostream': redefinition
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16): message : see declaration of 'ostream'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(52,28): error C2872: 'ostream': ambiguous symbol
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,9): message : could be 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iosfwd(217,7): message : or       'std::ostream'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(52,30): error C2065: 'os': undeclared identifier
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(52,34): error C2059: syntax error: 'const'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(53,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.cpp(53,1): error C2447: '{': missing function header (old-style formal list?)
+  LAB4-5.cpp
+  Repo.cpp
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,56): error C2238: unexpected token(s) preceding ';'
+  Test.cpp
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(16,56): error C2238: unexpected token(s) preceding ';'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Test.cpp(9,18): error C2664: 'Film::Film(const Film &)': cannot convert argument 1 from 'const char [6]' to 'char *'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Test.cpp(9,10): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(10,2): message : see declaration of 'Film::Film'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Test.cpp(10,17): error C2664: 'Film::Film(const Film &)': cannot convert argument 1 from 'const char [5]' to 'char *'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Test.cpp(10,10): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(10,2): message : see declaration of 'Film::Film'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Test.cpp(11,18): error C2664: 'Film::Film(const Film &)': cannot convert argument 1 from 'const char [6]' to 'char *'
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Test.cpp(11,10): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\ACASA\Desktop\INFO(II)\LAB4-5\LAB4-5\Film.h(10,2): message : see declaration of 'Film::Film'
+  Generating Code...
